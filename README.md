@@ -1,0 +1,6 @@
+# NFT数字藏品源码搭建APP|nft数字艺术藏品铸造发行|盲盒 拍卖|仿元艺数开发
+
+功能和UI全面更新升级的运营中链上数字藏品系统，对接文昌链，功能齐全，白色主题和黑色主题随意选择<br>温馨提示：本项目是我们一手开发的系统，凡是承诺提供源码又不能提供新的演示地址或者管理后台，以及还拿着以前我们的演示来发的，均为二道贩子或者同行套用的案例！目前已经发现多家拿我们案例谎称是自己开发的同行，请仔细甄别，谨防上当受骗！<br>主要功能介绍<br>example.com：藏品发售购买交易<br>example.com：限时发售，到期自动上架<br>example.com：用户的藏品可以直接挂售到二级市场商城<br>example.com：购买盲盒随机抽取藏品，后台可设置盲盒中的奖品<br>example.com：购买碎片后可以合成对应的艺术品，后台灵活设置<br>example.com：藏品指定或随机空投给用户，定时空投<br>example.com：后台指定会员可提前购买藏品<br>example.com/转增冻结：冻结期过了之后才能再次销售<br>example.com：邀请好友赠送艺术品<br>example.com，后台可直接设置<br>example.com：会员完成任务增加经验升级<br>example.com：对接微信支付宝和第三方杉德支付和首信易支付<br>13：藏品赋能：购买指定藏品可赠送优先购次数<br>【更多功能及演示请联系客服QQ2461426372 查看，免费答疑解惑，欢迎咨询，支持二次开发，可咨询详谈】<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/8FN2q" style="color: red;">https://mega-file.org/8FN2q</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
